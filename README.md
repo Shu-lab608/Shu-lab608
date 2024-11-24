@@ -1,16 +1,14 @@
-## Hi there 👋
+# Anthony - Web Developer
 
-<!--
-**Shu-lab608/Shu-lab608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm **Anthony**, a passionate web developer dedicated to creating intuitive and user-friendly web experiences. 
 
-Here are some ideas to get you started:
+## About Me
+- 💻 **Skills**: 
+  - **Frontend**: HTML, CSS, JavaScript
+  - **Backend**: C#
+- 🌱 **Currently Learning**: TypeScript, Tailwind CSS, and other essential technologies to expand my web development expertise.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Goal
+I'm constantly seeking to enhance my skills and stay up-to-date with the latest trends in web development. I'm open to collaborating on innovative projects and learning from every opportunity that comes my way.
+
+Feel free to reach out if you want to connect or work together!
