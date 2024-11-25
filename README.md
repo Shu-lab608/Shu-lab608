@@ -18,4 +18,4 @@ I'm constantly seeking to enhance my skills and stay up-to-date with the latest 
 Feel free to reach out if you want to connect or work together!
 
 
-**<img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_SoE3qOymW3ui5k8il00r3eVRIaarnk9Z2Q&s">**
+**<img src= "https://media.tenor.com/HULiiuo2MhYAAAAM/love-live.gif">**
