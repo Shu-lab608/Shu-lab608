@@ -16,3 +16,6 @@ Hi there! I'm **Anthony**, a passionate web developer dedicated to creating intu
 I'm constantly seeking to enhance my skills and stay up-to-date with the latest trends in web development. I'm open to collaborating on innovative projects and learning from every opportunity that comes my way.
 
 Feel free to reach out if you want to connect or work together!
+
+
+**<img src= "https://media.tenor.com/xg3AGynh6rMAAAAM/ayumu-uehara-ayumu-nod.gif">**
