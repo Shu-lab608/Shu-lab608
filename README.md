@@ -1,21 +1,34 @@
-# Anthony - Web Developer
+Anthony — Web Developer
 
-Hi there! I'm **Anthony**, a passionate web developer dedicated to creating intuitive and user-friendly web experiences. 
+Hi there! I'm Anthony, a passionate web developer dedicated to creating intuitive and user-friendly web experiences.
 
-## About Me
-- 💻 **Skills**: 
-  - **Frontend**: HTML, CSS, JavaScript
-  - **Backend**: C#
-- 🌱 **Currently Learning**: TypeScript, Tailwind CSS, and other essential technologies to expand my web development expertise.
+About Me
 
-## Connect with Me
-- 🌐 **Facebook**: [Anthony Loberiano](https://www.facebook.com/anthony.loberiano.39)
-- 🐦 **X (formerly Twitter)**: [@Syncrixel](https://twitter.com/Syncrixel?t=oSdoZuy78uY4m5mVE3VzQw&s=09)
+I’m a web developer who loves crafting responsive, accessible, and visually appealing websites. I enjoy turning ideas into functional digital experiences that not only look great but also perform smoothly. I’m constantly learning and improving my craft to stay ahead in the ever-evolving world of web technologies.
 
-## My Goal
-I'm constantly seeking to enhance my skills and stay up-to-date with the latest trends in web development. I'm open to collaborating on innovative projects and learning from every opportunity that comes my way.
+🧰 Core Skills:
 
-Feel free to reach out if you want to connect or work together!
+Frontend: HTML, CSS, Tailwind CSS, JavaScript, React
 
+Backend & Tools: Node.js, PHP
 
-**<img src= "https://media.tenor.com/HULiiuo2MhYAAAAM/love-live.gif">**
+Version Control & Workflow: Git, GitHub
+
+🌱 Currently Exploring:
+TypeScript, testing frameworks, serverless architecture, and API security to strengthen my full-stack capabilities.
+
+Projects & Work
+
+I focus on building clean and efficient designs with practical functionality. Whether it’s a personal project or a collaboration, I aim to deliver work that’s polished, purposeful, and user-focused.
+
+Connect with Me
+
+🌐 Facebook: Anthony Loberiano
+
+🐦 X (Twitter): @Syncrixel
+
+Vision
+
+To grow as a developer who not only writes code but also builds meaningful digital experiences that inspire, engage, and connect people.
+
+<img src="https://media.tenor.com/HULiiuo2MhYAAAAM/love-live.gif">
