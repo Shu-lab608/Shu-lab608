@@ -23,9 +23,8 @@ I focus on building clean and efficient designs with practical functionality. Wh
 
 Connect with Me
 
-🌐 Facebook: Anthony Loberiano
-
-🐦 X (Twitter): @Syncrixel
+🌐 **Facebook**: [Anthony Loberiano](https://www.facebook.com/anthony.loberiano.39)
+- 🐦 **X (formerly Twitter)**: [@Syncrixel](https://twitter.com/Syncrixel?t=oSdoZuy78uY4m5mVE3VzQw&s=09)
 
 Vision
 
